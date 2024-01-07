@@ -19,7 +19,7 @@ My name is Abdul Lateef Fnu, and I am a Computer Science student at NJIT
 
 💻 Previous Software Engineering Intern @ Merck
 
-💻 Previous IT Intern @ Bristol-Meyers Squibb
+💻 Previous IT Intern @ Bristol-Myers Squibb
 
 ### Reach Me At...
 Email: abdullateefv@gmail.com
