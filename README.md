@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Abdul Lateef Fnu, and I am a Computer Science student at NJIT
 
-💻 Previous Software Enginerring Intern @ Merck
+💻 Previous Software Engineering Intern @ Merck
 
 💻 Previous IT Intern @ Bristol-Meyers Squibb
 
