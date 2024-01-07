@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Abdul Lateef Fnu, and I am a Computer Science student at NJIT
+
+💻 Previous Software Enginerring Intern @ Merck
+💻 Previous IT Intern @ Bristol-Meyers Squibb
+
+### Reach Me At...
+Email: abdullateefv@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/abdullateefv/
